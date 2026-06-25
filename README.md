@@ -79,7 +79,7 @@ My work spans the full AI stack — from multi-agent orchestration and vector se
 ## 💼 Experience
 
 ### 🏦 Sr. AI Developer — Western Alliance Bank *(Jul 2025 – Present)*
-**VS Tech Inc. | Irving, TX**
+**Irving, TX**
 
 Built an enterprise-scale **GenAI Banking Intelligence Platform** architecting multi-agent AI workflows using LangChain, LangGraph, and MCP to automate core banking operations.
 
@@ -95,7 +95,7 @@ Built an enterprise-scale **GenAI Banking Intelligence Platform** architecting m
 ---
 
 ### 🚗 Sr. Machine Learning Engineer — CDK Global *(Jul 2024 – Jul 2025)*
-**Innovative Intelligent Solutions | Irving, TX**
+**Irving, TX**
 
 Built an **AI-Driven Dealership Intelligence Platform** — end-to-end ML pipelines for dealership pricing, demand forecasting, and lead scoring on AWS SageMaker.
 
@@ -163,7 +163,7 @@ Designed **Enterprise Data Engineering Platform** — Python/SQL ETL, AWS Glue/R
 ## 🎓 Education
 
 **MS, Computer and Information Sciences**
-University of North Texas — Denton, TX *(Aug 2022 – May 2024)*
+University of North Texas — Denton, TX 
 *Analysis of Algorithms · Software Engineering · Machine Learning · Database Fundamentals*
 
 ---
@@ -183,7 +183,7 @@ University of North Texas — Denton, TX *(Aug 2022 – May 2024)*
 
 - 📧 **Email:** suryadasari1509@gmail.com
 - 💼 **LinkedIn:** [linkedin.com/in/narensuryadasari](https://www.linkedin.com/in/narensuryadasari/)
-- 📍 **Location:** Irving, TX
+- 📍 **Location:** Frisco, TX
 
 ---
 
